@@ -1,1 +1,1 @@
-# furniture-store
+# furniture-store my adaptive web-site
